@@ -40,7 +40,7 @@ plot(
                   options=list(trendlines="{
                           0: {
                             labelInLegend: 'Trendline 1',
-                            visibleInLegend: true,}, 
+                            visibleInLegend: true}, 
                           1:{
                             labelInLegend: 'Trendline 2',
                             visibleInLegend: true}
